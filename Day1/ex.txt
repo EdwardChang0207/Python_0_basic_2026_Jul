@@ -1,0 +1,9 @@
+'''
+ctrl/cmd + D -> 選取多個
+alt/option + 方向鍵 -> 移動
+'''
+sad
+abc abc
+edf abc
+abc gef
+abc
